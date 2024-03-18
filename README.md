@@ -1,1 +1,3 @@
 # IdentifyOnRun
+
+Write the name of the user executing the executable to a text file. Dirty kludge to identify privesc vectors...
